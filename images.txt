@@ -7,4 +7,4 @@ xhofe/alist:latest
 python:alpine3.19
 arm64v8/ubuntu:latest
 lovasoa/sqlpage:latest
-mintplexlabs/anythingllm
+mintplexlabs/anythingllm:latest
