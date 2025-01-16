@@ -1,1 +1,1 @@
-mintplexlabs/anythingllm
+mysql:8.2.0
