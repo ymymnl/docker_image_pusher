@@ -1,1 +1,1 @@
-atlassian/jira-software:8.16.1
+mysql:8.0.22
