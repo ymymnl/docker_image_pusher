@@ -1,1 +1,1 @@
-jdk8:361
+openjdk:8u361-jdk
